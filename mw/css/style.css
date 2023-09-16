@@ -1,0 +1,105 @@
+@font-face {
+    font-family: mw-icon;
+    src: url('fonts/mw-icon.eot?m817m7');
+    src: url('fonts/mw-icon.eot?m817m7#iefix') format('embedded-opentype'), url('fonts/mw-icon.ttf?m817m7') format('truetype'), url('fonts/mw-icon.woff?m817m7') format('woff'), url('fonts/mw-icon.svg?m817m7#mw-icon') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block
+}
+
+[class*=" bx"],
+[class^=bx] {
+    font-family: mw-icon !important;
+    speak: never;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.bx-award:before {
+    content: "\e90b"
+}
+
+.bx-briefcase-alt:before {
+    content: "\e90c"
+}
+
+.bx-donate-heart:before {
+    content: "\e90d"
+}
+
+.bx-home-alt:before {
+    content: "\e90e"
+}
+
+.bx-mail-send:before {
+    content: "\e90f"
+}
+
+.bx-right-arrow-alt:before {
+    content: "\e910"
+}
+
+.bxs-badge-check:before {
+    content: "\e911"
+}
+
+.bx-support:before {
+    content: "\e912"
+}
+
+.bx-x:before {
+    content: "\e913"
+}
+
+.bx-book:before {
+    content: "\e900"
+}
+
+.bx-briefcase-alt-2:before {
+    content: "\e901"
+}
+
+.bxl-instagram:before {
+    content: "\e902"
+}
+
+.bxl-linkedin-square:before {
+    content: "\e903"
+}
+
+.bxl-whatsapp:before {
+    content: "\e904"
+}
+
+.bx-message-square-detail:before {
+    content: "\e905"
+}
+
+.bx-moon:before {
+    content: "\e908"
+}
+
+.bx-mouse:before {
+    content: "\e907"
+}
+
+.bx-sun:before {
+    content: "\e906"
+}
+
+.bx-user:before {
+    content: "\e909"
+}
+
+.bx-wallet:before {
+    content: "\e90a"
+}
+
+.bx-check:before {
+    content: "\e914";
+}
